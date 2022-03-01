@@ -7,6 +7,10 @@ public class HelloWorld{
 		int b=20;
 		String name="Nilesh";
 		System.out.println(a);
+
+		inr n=55;
+		String str ="LTI";
+
 		
 }
 }
