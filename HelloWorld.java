@@ -12,6 +12,7 @@ public class HelloWorld{
 		String str ="LTI";
 
 		String str2 ="LTI";
+		string s1="Java";
 
 		
 }
