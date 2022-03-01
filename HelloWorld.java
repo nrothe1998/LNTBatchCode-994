@@ -11,6 +11,8 @@ public class HelloWorld{
 		inr n=55;
 		String str ="LTI";
 
+		String str2 ="LTI";
+
 		
 }
 }
